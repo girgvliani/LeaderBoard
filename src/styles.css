@@ -1,11 +1,11 @@
 .input{
     position: absolute;
-    height: 12.63%;
+    height: 20%;
     width: 19.91%;
     top: 40.84%;
     right: 66.2%;
     bottom: 46.54%;
-    left: 17%;
+    left: 22%;
     max-width: 100%;
     overflow: hidden;
     max-height: 100%;
@@ -26,7 +26,7 @@
 .log-in {
     position: absolute;
     top: 15vh;
-    left: 20vw;
+    left: 25vw;
     font-size: 52px;
 }
 
